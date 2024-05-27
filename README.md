@@ -1,5 +1,4 @@
 ### Hej!
-My name is Karolina.
 ---
 
 ### ⭐ Top Languages :
