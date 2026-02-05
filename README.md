@@ -1,11 +1,6 @@
 ### Hej!
 ---
 
-### ⭐ Top Languages :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarolinaBladh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
